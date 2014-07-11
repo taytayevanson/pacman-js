@@ -1,4 +1,4 @@
-## JS Pacman
+## Pacman JS
 
 I began this project, following @james-srl's advice, to learn JavaScript more fundamentally. I was comfortable with jQuery but needed fundamental knowledge to be able to use other libraries, frameworks and plugins.
 
