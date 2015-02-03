@@ -5,3 +5,5 @@ I began this project, following @james-srl's advice, to learn JavaScript more fu
 I became bored with it once I started to write the AI script; that part is broken and I am probably not going to end up fixing it. If you remove some coordinates from window.blocks, the AI script works fairly well.
 
 This was fun and taught me a lot about performance, intervals, timeouts, and the inconsistencies of precise time measurements in JavaScript.
+
+The project is live at [http://weband.graphics](http://weband.graphics/ "Eat Those Dots") for now!
